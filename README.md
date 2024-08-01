@@ -35,11 +35,11 @@ This project presents a comprehensive comparative analysis of three popular YOLO
 
 # Performance Evaluation: Speed (Detection Time on CPU):
 
-YOLOv3: 597 seconds
-YOLOv5: 26 seconds
-YOLOv8: 28 seconds
+1. YOLOv3: 597 seconds
+2. YOLOv5: 26 seconds
+3. YOLOv8: 28 seconds
 
 # Number of Objects Detected:
-YOLOv3: 2614
-YOLOv5: 2272
-YOLOv8: 2483
+1. YOLOv3: 2614
+2. YOLOv5: 2272
+3. YOLOv8: 2483
